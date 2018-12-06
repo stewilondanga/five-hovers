@@ -38,11 +38,11 @@ body {
   grid-column: span 3;
 }
 
-/*.title--h2 {
+.title--h2 {
   font-size: 25px;
 }
 
-.grid-section {
+/*.grid-section {
   margin-bottom: 40px;
 }
 
