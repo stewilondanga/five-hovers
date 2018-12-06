@@ -60,11 +60,12 @@ body {
   transition: 0.25s ease;
 }
 
-/*.btn--transparent {
+.btn--transparent {
   color: #00a7e1;
   background-color: transparent;
 }
-.btn--1:hover {
+
+/*.btn--1:hover {
   border-style: dashed;
 }
 .btn--2:hover {
