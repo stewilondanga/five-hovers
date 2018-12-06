@@ -46,7 +46,7 @@ body {
   margin-bottom: 40px;
 }
 
-/*.btn {
+.btn {
   padding: 13.3333333333px 20px;
   border-radius: 10px;
   font-size: 20px;
@@ -59,7 +59,8 @@ body {
   font-family: "Roboto", sans-serif;
   transition: 0.25s ease;
 }
-.btn--transparent {
+
+/*.btn--transparent {
   color: #00a7e1;
   background-color: transparent;
 }
