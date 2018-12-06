@@ -84,13 +84,13 @@ body {
   background-color: transparent;
 }
 
-/*.btn--5:hover {
+.btn--5:hover {
   -webkit-transform: translateY(-5px);
   -ms-transform: translateY(-5px);
   transform: translateY(-5px);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
