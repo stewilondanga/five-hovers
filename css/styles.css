@@ -13,11 +13,11 @@ body {
   height: 2.5em;
 }
 
-/*.my_social a img {
+.my_social a img {
   height: 1.5em;
 }
 
-.btn--4:hover, .btn--5:hover {
+/*.btn--4:hover, .btn--5:hover {
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.15);
 }
 
