@@ -65,10 +65,11 @@ body {
   background-color: transparent;
 }
 
-/*.btn--1:hover {
+.btn--1:hover {
   border-style: dashed;
 }
-.btn--2:hover {
+
+/*.btn--2:hover {
   border-radius: 20px;
 }
 .btn--3:hover {
