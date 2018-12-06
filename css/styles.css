@@ -17,11 +17,11 @@ body {
   height: 1.5em;
 }
 
-/*.btn--4:hover, .btn--5:hover {
+.btn--4:hover, .btn--5:hover {
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.15);
 }
 
-.container {
+/*.container {
   width: 960px;
   padding: 20px;
   margin: auto;
