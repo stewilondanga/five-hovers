@@ -33,11 +33,12 @@ body {
   font-family: "Oswald", sans-serif;
 }
 
-/*.title--h1 {
+.title--h1 {
   font-size: 50px;
   grid-column: span 3;
 }
-.title--h2 {
+
+/*.title--h2 {
   font-size: 25px;
 }
 
