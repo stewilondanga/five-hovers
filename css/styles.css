@@ -1,4 +1,4 @@
-body {
+/*body {
   text-align: center;
   font-family: courier;
   background-image: url("../assets/image.jpeg");
@@ -19,6 +19,75 @@ body {
 
 .my_social a img {
   height: 1.5em;
+}
+
+.btn--4:hover, .btn--5:hover {
+  box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.15);
+}
+
+body {
+  background-color: #fceade;
+}
+
+.container {
+  width: 960px;
+  padding: 20px;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.title {
+  font-family: "Oswald", sans-serif;
+}
+.title--h1 {
+  font-size: 50px;
+  grid-column: span 3;
+}
+.title--h2 {
+  font-size: 25px;
+}
+
+.grid-section {
+  margin-bottom: 40px;
+}
+
+.btn {
+  padding: 13.3333333333px 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  color: #fff;
+  background-color: #00a7e1;
+  border: 2px solid #00a7e1;
+  outline: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+  transition: 0.25s ease;
+}
+.btn--transparent {
+  color: #00a7e1;
+  background-color: transparent;
+}
+.btn--1:hover {
+  border-style: dashed;
+}
+.btn--2:hover {
+  border-radius: 20px;
+}
+.btn--3:hover {
+  color: #00a7e1;
+  background-color: transparent;
+}
+.btn--4:hover {
+  color: #00a7e1;
+  border-color: transparent;
+  background-color: transparent;
+}
+.btn--5:hover {
+  -webkit-transform: translateY(-5px);
+  -ms-transform: translateY(-5px);
+  transform: translateY(-5px);
 }
 
 .containers {
