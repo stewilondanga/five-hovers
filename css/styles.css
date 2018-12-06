@@ -1,3 +1,7 @@
+body {
+  background-color: #fceade;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -23,10 +27,6 @@
 
 .btn--4:hover, .btn--5:hover {
   box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.15);
-}
-
-body {
-  background-color: #fceade;
 }
 
 .container {
